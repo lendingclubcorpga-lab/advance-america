@@ -3,4 +3,3 @@ streamlit-drawable-canvas>=0.10.0
 pillow>=10.4.0
 numpy>=1.26.0
 reportlab>=4.1.0
-pyarrow>=17.0.0
